@@ -37,7 +37,7 @@
 
 .title-header
 {
-  padding-left: 293px;
+  text-align: center;
   font-weight: bold;
   font-size: xx-large;
   padding-top: 15px;
@@ -94,15 +94,18 @@
 }
 
 .paragrafo{
+  padding: 5px 488px;
+    text-align: center;
 
-  padding-top: 15px;
+  
   color: white;
 }
 
 .q-rosa {
+
   
  
-  margin: 0px 308px;
+
   
  
 }
