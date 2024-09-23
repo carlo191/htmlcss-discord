@@ -185,6 +185,7 @@
 
 .second-section {
   background-color: grey;
+  background-image: url('../../wave.svg');
   margin: 0px;
   display: flex;
   justify-content: center;
