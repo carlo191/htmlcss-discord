@@ -35,7 +35,8 @@
 /* # HEADER */
 
 
-h1{
+.title-header
+{
   padding-left: 293px;
   font-weight: bold;
   font-size: xx-large;
@@ -147,17 +148,39 @@ h1{
   border: 2px dashed black;
 }
 
-.blu-panel {
+
+.title-first{
+  font-size: xx-large;
+    padding-bottom: 10px;
+}
+
+.first-image{
+  width: 225px;
+  font-weight: bold;
+}
+
+.p-first{}
+
+/*.blu-panel {
   background-color: blue;
   height: 270px;
   width: 700px;
-  border: 2px dashed black;
-}
+  border: 2px dashed black;*/
+
 
 .first-section {
   margin: 39px;
   display: flex;
   justify-content: center;
+}
+
+.item1{
+  height: 371px;
+  width: 653px;
+  border-right: 111px;
+  margin-right: 0px;
+  margin-left: 0px;
+  border-left-width: 109px;
 }
 
 .second-section {
